@@ -1,4 +1,4 @@
-[Github logo](assets/github_PNG48.png)
+![Githublogo](https://raw.githubusercontent.com/rudmer-io/github-guide-for-developers/master/assets/github_PNG48.png)
 # Algunos comandos de Git
 
 ## Configurar git
