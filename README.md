@@ -1,4 +1,4 @@
-![Githublogo](https://raw.githubusercontent.com/rudmer-io/github-guide-for-developers/master/github_PNG48.png)
+![Githublogo](https://raw.githubusercontent.com/rudmer-io/github-guide-for-developers/master/assets/github_PNG48.png)
 
 # Github guide for developers 🐱‍🏍
 Guia para comprender el uso de github
