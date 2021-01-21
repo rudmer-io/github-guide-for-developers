@@ -3,6 +3,10 @@
 # Github guide for developers 🐱‍🏍
 Guia para comprender el uso de github
 
-Cualquier aporte será bien recibido...
+Poco a poco iré ampliando los comandos en el fichero correspondiente.
+
+Si quieres ayudarme con la inserción de algunos comandos eres libre de hacerlo.
+
+
 
 Gracias a [pngimg.com](http://pngimg.com/) por el logo de github.
