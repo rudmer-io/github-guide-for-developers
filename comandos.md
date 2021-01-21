@@ -1,3 +1,6 @@
+[Github logo](assets/github_PNG48.png)
+# Algunos comandos de Git
+
 ## Configurar git
 git config --global user.name "rudmer-io"
 git config --global user.email "rdmrio@email.com"
@@ -13,12 +16,12 @@ git commit -m "Primer commit"
 
 ## Sincronizar repositorio
 
-### Bajar los cambios del repositorio remoto 👇
+## Bajar los cambios del repositorio remoto 👇
 git pull origin main
 
-### Subir los cambios al repositorio remoto 👆
+## Subir los cambios al repositorio remoto 👆
 git push origin main 
-## Crear una etiqueta de un commit 📑 🏷
+## Crear una etiqueta de un commit 🏷
 git tag version-1.0 9c1294f6e3defa9c3baf6c73be1c7157eb261b5f
 
 ## Crear una rama nueva 🌵
