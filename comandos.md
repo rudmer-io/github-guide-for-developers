@@ -13,12 +13,11 @@ git commit -m "Primer commit"
 
 ## Sincronizar repositorio
 
-git pull origin main 
 ### Bajar los cambios del repositorio remoto 👇
+git pull origin main
 
-git push origin main 
 ### Subir los cambios al repositorio remoto 👆
-
+git push origin main 
 ## Crear una etiqueta de un commit 📑 🏷
 git tag version-1.0 9c1294f6e3defa9c3baf6c73be1c7157eb261b5f
 
